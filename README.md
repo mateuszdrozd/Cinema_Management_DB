@@ -1,4 +1,5 @@
 # Baza Danych Zarządzania Kinem
+[Zobacz Raport](https://github.com/mateuszdrozd/Cinema_Management_DB/blob/main/Raport%20Kino%20Bazy%20Danych.pdf)
 # Opis Projektu
 Celem projektu było stworzenie kompleksowej bazy danych dla systemu zarządzania kinem. System umożliwia:
 
